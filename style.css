@@ -1,0 +1,15 @@
+table.r {
+    border: red 1px solid;
+}
+
+td.mark {
+    border: blue 2px solid;
+}
+
+table.ve {
+    border: rgb(47, 255, 57) 1px solid;
+}
+
+td.ve {
+    border: rgb(47, 255, 57) 1px solid;
+}
